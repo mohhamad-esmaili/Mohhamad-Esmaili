@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohhamad-esmaili&theme=bear"/>
+<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=mohhamad-esmaili&theme=bear"/>
 <br>
 <p>
 🎈 My interests and Familiarity: 
