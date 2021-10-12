@@ -13,14 +13,12 @@
 <p>
 🖥 I'm Learning: 
 </br>
-
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 <p>
 📣 Contact Me: 
 </br>
-
     <a href="<a href="mailto:esmaili.mohhamad@gmail.com?subject=Mail from Github Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mohammad-esmaili/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://stackoverflow.com/users/14642553/mhmd"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
