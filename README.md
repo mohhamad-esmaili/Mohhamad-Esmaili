@@ -1,18 +1,15 @@
-<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=mohhamad-esmaili&theme=bear"/>
-<p>
-🎈 My interests and Familiarity: 
-</br>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target="_blank" />
-</p>
-<p>
-📣 Contact Me: 
-</br>
-    <a href="mailto:esmaili.mohhamad@gmail.com?subject=Mail from Github Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-    <a href="https://www.linkedin.com/in/mohammad-esmaili/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://stackoverflow.com/users/14642553/mhmd" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-    <a href="https://instagram.com/m.m.dl" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+# 👋 Hi, I'm Mohammad!
+
+I'm a passionate **Flutter developer** who loves building elegant and scalable mobile apps with beautiful user interfaces and smooth user experiences.
+
+## 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,py,figma,postman&theme=dark)](https://skillicons.dev)
+
+## 🤝 Let's Connect
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://www.linkedin.com/in/mohammad-esmaili/)
+[<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/telegram-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://t.me/m_hhmd)
+[<img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmail-512.png" width="47" height="46" style="margin-right: 5px;"/>](mailto:esmaili.mohhamad@gmail.com)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" width="47" height="46" style="margin-right: 5px;"/>](https://wa.me/message/5LYZH3PPEX2OE1)
+[<img src="https://www.iconfinder.com/icons/2613280/download/png/512" width="47" height="46" style="margin-right: 5px;"/>](https://stackoverflow.com/users/14642553/mhmd)
+
 
